@@ -1,2 +1,0 @@
-# SonOfGrab
-Apple Screenshot demo
